@@ -7,4 +7,5 @@ Me gusta la **programación** 💻 y el **yoga** 🧘🏻 (no necesariamente en 
 [![Instagram @kadu_dm](https://img.shields.io/badge/Instagram-@kadu__dm-2c2c2c?logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/kadu_dm/)
 
 ## 💡 Racha de contribuciones
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kadumendez&theme=green_nur)  
+<!--![GitHub Streak](https://streak-stats.demolab.com/?user=Kadumendez&theme=green_nur)  -->
+<img src="https://streak-stats.demolab.com/?user=Kadumendez&theme=green_nur" alt="GitHub Streak" />
