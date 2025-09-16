@@ -8,4 +8,7 @@ Me gusta la **programación** 💻 y el **yoga** 🧘🏻 (no necesariamente en 
 
 ## 💡 Racha de contribuciones
 <!--![GitHub Streak](https://streak-stats.demolab.com/?user=Kadumendez&theme=green_nur)  -->
-<img src="https://streak-stats.demolab.com/?user=Kadumendez&theme=green_nur" alt="GitHub Streak" />
+<!--<img src="https://streak-stats.demolab.com/?user=Kadumendez&theme=green_nur" alt="GitHub Streak" /> 
+
+## 💡 Estadísticas de GitHub-->
+![Kadú's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadumendez&show_icons=true&theme=merko)
