@@ -1,14 +1,14 @@
-## ¡Hola, soy Kadú Desposorio! 🙏🏻
-Me gusta la **programación** 💻 y el **yoga** 🧘🏻 (no necesariamente en ese orden).
+# ¡Hola, soy Kadú S.! 👋
 
-## 📲 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kad%C3%BAdesposorio/)
-[![Follow on GitHub](https://img.shields.io/github/followers/Kadumendez?label=Follow&style=social)](https://github.com/Kadumendez)
-[![Instagram @kadu_dm](https://img.shields.io/badge/Instagram-@kadu__dm-2c2c2c?logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/kadu_dm/)
+Me gusta el **Vibe Coding** y construir código con **Inteligencia Artificial** 🤖
 
-## 💡 Racha de contribuciones
-<!--![GitHub Streak](https://streak-stats.demolab.com/?user=Kadumendez&theme=green_nur)  -->
-<!--<img src="https://streak-stats.demolab.com/?user=Kadumendez&theme=green_nur" alt="GitHub Streak" /> 
+### 📲 Conecta conmigo
 
-## 💡 Estadísticas de GitHub-->
-![Kadú's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadumendez&show_icons=true&theme=merko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kadu_dm)
+
+---
+
+### 📊 Calendario de Contribuciones
+
+![Gráfico de contribuciones](https://ghchart.rshah.org/40c463/Kadumendez)
